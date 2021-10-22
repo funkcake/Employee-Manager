@@ -1,0 +1,22 @@
+{
+  "name": "employee-manager",
+  "version": "1.0.0",
+  "description": "simple app that organizes and creates employees in a company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funkcake/Employee-Manager.git"
+  },
+  "author": "Brian Casto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funkcake/Employee-Manager/issues"
+  },
+  "homepage": "https://github.com/funkcake/Employee-Manager#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
