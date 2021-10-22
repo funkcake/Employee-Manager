@@ -1,2 +1,2 @@
 # Employee-Manager
-simple app that organizes and creates employees in a company
+Simple app that organizes and creates employees in a company
